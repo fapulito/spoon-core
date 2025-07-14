@@ -1,7 +1,7 @@
 # 🚀 SpoonOS Core Developer Framework(SCDF)
 
 <div align="center">
-  <img src="logo/spoon.gif" alt="SpoonAI Logo" width="200"/>
+  
   <p><strong>Core developer framework of SpoonOS ——Agentic OS for the sentient economy. Next-Generation AI Agent Framework | Powerful Interactive CLI | Web3 infrastructure optimized Support</strong></p>
 </div>
 
